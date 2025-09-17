@@ -1,4 +1,4 @@
-programa {
+programa {                // pratica do git e github
   funcao inicio() {
     inteiro diaDaSemana
     escreva("Digite o dia da semana de 1 a 7:")
